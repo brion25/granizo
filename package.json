@@ -1,0 +1,20 @@
+{
+  "name": "granizo",
+  "version": "0.0.1",
+  "description": "Build UI as easy as 1, 2, 3",
+  "main": "index.js",
+  "repository": "https://github.com/brion25/granizo.git",
+  "author": "JC Gomez",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "clean-webpack-plugin": "^0.1.16",
+    "webpack": "^3.2.0"
+  }
+}
